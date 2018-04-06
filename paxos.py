@@ -1,5 +1,6 @@
 """
 Simple Paxos implementation for study.
+cf https://qiita.com/kumagi/items/535c9b7a761d2ed52bc0
 cf http://fj.hatenablog.jp/entry/2015/10/11/003225
 """
 
